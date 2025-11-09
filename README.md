@@ -115,7 +115,7 @@ The app uses a sophisticated multi-step process to detect hand gestures:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/codexshiv01/Rock-Paper-Sessior.git
    cd Rock-paper
    ```
 
