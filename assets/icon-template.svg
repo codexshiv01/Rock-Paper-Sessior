@@ -1,0 +1,21 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#6366f1" rx="180"/>
+  
+  <!-- Rock icon -->
+  <circle cx="300" cy="400" r="60" fill="white" opacity="0.9"/>
+  
+  <!-- Paper icon -->
+  <rect x="450" y="340" width="120" height="120" fill="white" opacity="0.9" rx="10"/>
+  
+  <!-- Scissors icon -->
+  <path d="M700 400 L800 350 M700 400 L800 450" stroke="white" stroke-width="40" stroke-linecap="round" opacity="0.9"/>
+  
+  <!-- App name -->
+  <text x="512" y="650" font-family="Arial, sans-serif" font-size="100" font-weight="bold" fill="white" text-anchor="middle">RPS</text>
+  <text x="512" y="750" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle" opacity="0.8">Gesture Game</text>
+</svg>
+
+
+
+
